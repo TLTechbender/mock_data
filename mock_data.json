@@ -3,7 +3,9 @@
     {
       "id": "1",
       "name": "Ajanlekoko Ajanaku",
+      "email": "123dawg@mail.com",
       "password": "dawg",
+      "avatar": "https://img.freepik.com/premium-photo/portrait-beautiful-young-asian-muslim-woman-with-clean-fresh-skin-isolated-white_262958-6347.jpg?w=1060",
       "cart": [
         {
           "id": "101",
@@ -26,28 +28,8 @@
           "name": "Tablet"
         }
       ]
-    },
-    {
-      "id": "2",
-      "name": "Jane Smith",
-      "cart": [
-        {
-          "id": "103",
-          "name": "Camera",
-          "quantity": 1
-        }
-      ],
-      "wishlist": [
-        {
-          "id": "203",
-          "name": "Smartwatch"
-        },
-        {
-          "id": "204",
-          "name": "E-book Reader"
-        }
-      ]
     }
+ 
   ],
   "articles_summary": [
     {
